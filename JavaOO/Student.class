@@ -1,0 +1,14 @@
+package student;
+
+public class Student {  
+
+  String subject; 
+  int hakNum; 
+  
+  public static void main(String[] args) {  
+  Student s = new Student();    
+      s.subject="컴퓨터정보공학과";  
+      s.hakNum=20164110;    
+      System.out.println("학과:"+s.subject+"\n학번:" + s.hakNum);    
+    }
+}
