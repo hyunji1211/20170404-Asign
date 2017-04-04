@@ -1,3 +1,0 @@
-java src
-java src2
-java src3
